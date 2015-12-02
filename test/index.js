@@ -2,8 +2,8 @@
 
 var assert = require('assert');
 
-describe('beerbot-jenkins', function () {
-  it('should have unit test!', function () {
+describe('beerbot-jenkins', function() {
+  it('should have unit test!', function() {
     assert(true, 'we expected this package author to add actual unit tests.');
   });
 });
